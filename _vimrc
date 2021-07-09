@@ -51,6 +51,7 @@ set shiftwidth=4
 "set expandtab
 "color ron
 color desert
+set autochdir
 
 " Zoom text in and out
 "--------------------------------------------------------------------------------
